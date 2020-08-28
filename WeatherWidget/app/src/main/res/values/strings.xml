@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherWidget</string>
+    <string name="cityTextview">TextView</string>
+    <string name="condTextview">TextView</string>
+    <string name="condTextview">TextView</string>
+    <string name="timeTextview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location Example</string>
+    <string name="get_last_location_text">Get the last know location</string>
+    <string name="get_location_updates_text">Receive location updates</string>
+    <string name="latitude_text">Latitude:</string>
+    <string name="longitude_text">Longitude:</string>
+    <string name="not_found_text">Not found</string>
+</resources>

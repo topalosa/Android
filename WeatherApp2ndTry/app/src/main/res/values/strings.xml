@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp2ndTry</string>
+
+    <string name="cityT">cityT</string>
+    <string name="conditionT">conditionT</string>
+    <string name="temperatureT">temperatureT</string>
+
+    <string name="todo">todo</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="timeT">timeT</string>
+</resources>

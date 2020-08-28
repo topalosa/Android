@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intents Example</string>
+    <string name="explicitIntent_text">Explicit Intent</string>
+    <string name="launchActivity_text">Launch activity</string>
+    <string name="launchActivityWithData_text">Launch activity with data</string>
+    <string name="launchActivity2_text">Launch activity for result</string>
+    <string name="implicitIntent_text">Implicit Intent</string>
+    <string name="secondActivity_text">Second Activity</string>
+    <string name="goBack_text">Go back!</string>
+    <string name="goBackSendData_text">Go back and send data!</string>
+    <string name="launchMap_text">Launch Map</string>
+    <string name="openBrowser_text">Open browser</string>
+    <string name="choose_text">Choose</string>
+    <string name="playsound_text">Play Sound, Custom action</string>
+    <string name="broadcast_text">Broadcast Intent</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity Example</string>
+    <string name="button_text">Hit Me!</string>
+    <string name="sample_text">Sample text</string>
+</resources>
